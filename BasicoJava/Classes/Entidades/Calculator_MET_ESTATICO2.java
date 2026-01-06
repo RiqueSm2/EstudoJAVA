@@ -1,6 +1,6 @@
 package BasicoJava.Classes.Entidades;
 
-public class Calculator {
+public class Calculator_MET_ESTATICO2 {
 
 public static final double PI = 3.14159; /*Final significa que a variavel não pode ser mudada (PADRAO É LESTRAS MAIUSCULAS)*/
 
