@@ -1,4 +1,4 @@
-package BasicoJava.Classes.Entidades;
+package Classes.Entidades;
 
 public class Calculator_MET_ESTATICO2 {
 

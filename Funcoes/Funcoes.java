@@ -1,5 +1,4 @@
-package BasicoJava.Funcoes;
-
+package Funcoes;
 import java.util.Scanner;
 
 public class Funcoes {
@@ -21,7 +20,8 @@ public class Funcoes {
     sc.close();
 
         
-    }/*Declarar apos o void main*/
+    }
+  /*Declarar apos o void main*/
 
    /*função que retorna o maior valor entre tres numeros inteiros */
   public static int max(int x, int y, int z) { /*Os parametro não precisam ter o mesmo nome das variaveis */

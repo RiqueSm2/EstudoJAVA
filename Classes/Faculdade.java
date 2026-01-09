@@ -1,7 +1,6 @@
-package BasicoJava.Classes;
+package Classes;
+import Classes.Entidades.*;
 import java.util.Scanner;
-import BasicoJava.Classes.Entidades.Student_FACULDADE;
-
 public class Faculdade {
 
  public static void main(String[] args){

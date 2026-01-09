@@ -1,5 +1,3 @@
-package BasicoJava.EstruturasDeControle;
-
 public class While {
     public static void main(String[] args) {
 

@@ -1,7 +1,6 @@
-package BasicoJava.Classes.MembrosEstaticos;
+package Classes.MembrosEstaticos;
 
-
-import BasicoJava.Classes.Entidades.CurrencyConverter_MET_ESTATICO;
+import Classes.Entidades.CurrencyConverter_MET_ESTATICO;
 import java.util.Scanner;
 
 public class MetEstatico {

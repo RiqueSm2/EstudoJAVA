@@ -1,6 +1,5 @@
-package BasicoJava.Classes.MembrosEstaticos;
-
-import BasicoJava.Classes.Entidades.Calculator_MET_ESTATICO2;
+package Classes.MembrosEstaticos;
+import Classes.Entidades.Calculator_MET_ESTATICO2;
 import java.util.Scanner;
 
 public class MetEstatico2 {

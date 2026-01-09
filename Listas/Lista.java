@@ -1,5 +1,4 @@
-package BasicoJava.Listas;
-
+package Listas;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

@@ -1,4 +1,5 @@
-package BasicoJava.Classes.Entidades;
+package Classes.Entidades;
+
 
 public class CurrencyConverter_MET_ESTATICO {
    

@@ -1,5 +1,4 @@
-package BasicoJava.Strings;
-
+package Strings;
 public class Strings {
        public static void main(String[] args) {
 
@@ -28,15 +27,25 @@ public class Strings {
     original.equals("s"); /*comparando strings Ex.: se original for igual a "s" */
 
     System.out.println("Original: " + original);
+    
     System.out.println("ToUpperCase: " + s1);
+
     System.out.println("ToLowerCase: " + s2);
+
     System.out.println("Trim: " + s3);  
+
     System.out.println("Substring(2): " + s4);
+
     System.out.println("Substring(2, 9): " + s5);
+
     System.out.println("Replace('a', 'x'): " + s6);
+
     System.out.println("Replace(\"abc\", \"xy\"): " + s7);
+
     System.out.println("Index of 'bc': " + a);
+
     System.out.println("Last index of 'bc': " + b);
+
     System.out.println("Palavra no vetor 0: " + vect[0]);
         
     }

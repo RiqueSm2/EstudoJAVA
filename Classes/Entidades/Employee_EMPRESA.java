@@ -1,4 +1,4 @@
-package BasicoJava.Classes.Entidades;
+package Classes.Entidades;
 
 public class Employee_EMPRESA {
 
